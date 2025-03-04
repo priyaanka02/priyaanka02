@@ -3,17 +3,17 @@
 <h1 align="center">I'm Priyanka Choudhary</h1>
 <h3 align="center">An Aspiring Data Scientist, Currently pursuing MS in Artificial Intelligence in Germany</h3>
 
+-  📫 How to reach me **choudhary0302.priyanka@gmail.com**
+-  
 - 🌱 I’m currently learning **Python and AI tools for Business/Financial Analysis**
+
+- 👩🏻‍💻 Linkedin Profile [https://www.linkedin.com/in/priyankachoudhary0302](https://www.linkedin.com/in/priyankachoudhary0302)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tNl4kMlD2avK-ged1QWZNXu3XPiWoUOM/view?usp=sharing](https://drive.google.com/file/d/1tNl4kMlD2avK-ged1QWZNXu3XPiWoUOM/view?usp=sharing)
 
 - 👯 I’m looking to collaborate on **Python, SQL, AI and Risk Analysis projects**
 
-- 👩🏻‍💻 Linkedin Proflie [https://www.linkedin.com/in/priyankachoudhary0302](https://www.linkedin.com/in/priyankachoudhary0302)
-
 - 💬 Ask me about **Python & SQL**
-
-- 📫 How to reach me **choudhary0302.priyanka@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tNl4kMlD2avK-ged1QWZNXu3XPiWoUOM/view?usp=sharing](https://drive.google.com/file/d/1tNl4kMlD2avK-ged1QWZNXu3XPiWoUOM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
