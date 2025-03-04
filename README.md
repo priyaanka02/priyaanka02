@@ -4,7 +4,7 @@
 <h3 align="center">An Aspiring Data Scientist, Currently pursuing MS in Artificial Intelligence in Germany</h3>
 
 -  📫 How to reach me **choudhary0302.priyanka@gmail.com**
--  
+
 - 🌱 I’m currently learning **Python and AI tools for Business/Financial Analysis**
 
 - 👩🏻‍💻 Linkedin Profile [https://www.linkedin.com/in/priyankachoudhary0302](https://www.linkedin.com/in/priyankachoudhary0302)
