@@ -9,7 +9,7 @@
 
 - 👩🏻‍💻 Linkedin Profile [https://www.linkedin.com/in/priyankachoudhary0302](https://www.linkedin.com/in/priyankachoudhary0302)
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1a9qZUe90tyZrVQt26Cj_40TlLpkO-W3r/view?usp=sharing
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jRk1PdZn858gS3YumXyWjZKAQ28icosd/view?usp=sharing](https://drive.google.com/file/d/1jRk1PdZn858gS3YumXyWjZKAQ28icosd/view?usp=sharing)
 
 - 👯 I’m looking to collaborate on **Python, SQL, AI and Risk Analysis projects**
 
