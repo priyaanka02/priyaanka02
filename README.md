@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">I'm Priyanka Choudhary</h1>
-<h3 align="center">An Aspiring Data Scientist, Currently pursuing MS in Artificial Intelligence in Germany</h3>
+<h3 align="center">Data Professional | Currently pursuing MS in Artificial Intelligence in Germany</h3>
 
 -  📫 How to reach me **choudhary0302.priyanka@gmail.com**
 
